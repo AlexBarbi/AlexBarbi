@@ -7,7 +7,7 @@
   <a href="mailto:alejandro.enrique.barbi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/tuo-profilo-linkedin/">
+  <a href="https://www.linkedin.com/in/alejandro-enrique-barbi-340b2a20b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
@@ -39,6 +39,7 @@ I am a Master's student in **Artificial Intelligence Systems** at the University
 **Robotics & AI Tools**
 <p>
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros2&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
